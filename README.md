@@ -3,7 +3,7 @@
 </p>
 
 ### Hi there 👋 I AM JOHN IGWE EKE
-
+# I am a Software Developer, i am into Mobile App Development using Flutter.
 <!--
 **jonyoung123/jonyoung123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
