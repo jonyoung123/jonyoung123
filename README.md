@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/jonyoung123/jonyoung123/blob/main/github_img.png" >
+</p>
+
 ### Hi there 👋 I AM JOHN IGWE EKE
 
 <!--
