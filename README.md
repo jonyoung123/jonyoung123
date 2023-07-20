@@ -3,7 +3,7 @@
   <img src="https://github.com/jonyoung123/jonyoung123/blob/main/github_img.png" >
 </p>
 
-## 💫 About Me:
+# 💫 About Me:
  I am a hardworking and resourceful Mobile Developer with a passion for building clean, scalable, and intuitive Flutter applications for iOS and Android with strong knowledge of other programming languages and frameworks. Highly proficient in Rest APIs, Firebase integrations, and Database management. Ambitious and resourceful with a passionate drive for archiving results. Enthusiastic about learning, a good team player with effective communication skills, and excited about driving excellence.
 Check me out on [Twitter](https://twitter.com/official_igwe2) and [Linkedin](https://www.linkedin.com/in/john-igwe-eke/)
 
@@ -19,7 +19,7 @@ Check me out on [Twitter](https://twitter.com/official_igwe2) and [Linkedin](htt
 
 ![](https://github-profile-trophy.vercel.app/?username=jonyoung123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=jonyoung123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
