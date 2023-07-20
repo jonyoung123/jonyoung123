@@ -1,6 +1,6 @@
 # Hi there 👋 I AM JOHN IGWE EKE
 <p align="center">
-  <img src="https://github.com/jonyoung123/jonyoung123/blob/main/github_img.png" >
+  <img src="[https://github.com/jonyoung123/jonyoung123/blob/main/github_img.png](https://github.com/jonyoung123/jonyoung123/blob/main/github_img.png)" , height=20, width=32>
 </p>
 
 # 💫 About Me:
