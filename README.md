@@ -3,7 +3,9 @@
 </p>
 
 ### Hi there 👋 I AM JOHN IGWE EKE
-# I am a Software Developer, i am into Mobile App Development using Flutter.
+ I am a hardworking and resourceful Mobile Developer with a passion for building clean, scalable, and intuitive Flutter applications for iOS and Android with strong knowledge of other programming languages and frameworks. Highly proficient in Rest APIs, Firebase integrations, and Database management. Ambitious and resourceful with a passionate drive for archiving results. Enthusiastic about learning, a good team player with effective communication skills, and excited about driving excellence.
+
+ [![John's github stats](https://github-readme-stats.vercel.app/api?username=jonyoung123)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jonyoung123/jonyoung123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
