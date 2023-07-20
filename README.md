@@ -1,6 +1,6 @@
 # Hi there 👋 I AM JOHN IGWE EKE
 <p align="center">
-  <img src="https://github.com/jonyoung123/jonyoung123/blob/main/Mobile%20Developer-banner.png">
+  <img src="https://github.com/jonyoung123/jonyoung123/blob/main/github-header-image.png">
 </p>
 
 # 💫 About Me:
