@@ -1,8 +1,9 @@
+# Hi there 👋 I AM JOHN IGWE EKE
 <p align="center">
   <img src="https://github.com/jonyoung123/jonyoung123/blob/main/github_img.png" >
 </p>
 
-### Hi there 👋 I AM JOHN IGWE EKE
+## 💫 About Me:
  I am a hardworking and resourceful Mobile Developer with a passion for building clean, scalable, and intuitive Flutter applications for iOS and Android with strong knowledge of other programming languages and frameworks. Highly proficient in Rest APIs, Firebase integrations, and Database management. Ambitious and resourceful with a passionate drive for archiving results. Enthusiastic about learning, a good team player with effective communication skills, and excited about driving excellence.
 Check me out on [Twitter](https://twitter.com/official_igwe2) and [Linkedin](https://www.linkedin.com/in/john-igwe-eke/)
 
