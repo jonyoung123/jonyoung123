@@ -8,7 +8,7 @@ Check me out on [Twitter](https://twitter.com/official_igwe2) and [Linkedin](htt
 
 # 📊 GitHub Stats:
 
- [![](https://github-readme-stats.vercel.app/api?username=jonyoung123)](https://github.com/anuraghazra/github-readme-stats)
+ ![](https://github-readme-stats.vercel.app/api?username=jonyoung123)
 
  ![](https://github-readme-streak-stats.herokuapp.com/?user=jonyoung123&theme=city_light&hide_border=false)<br/>
  
